@@ -1,5 +1,11 @@
 # scolling-animation-css
-A crolling text animation using only css no js libraries ( pure css )
+A scrolling text animation using only CSS, no JS libraries ( pure CSS)
+
+# Tip click the preview:-
+<a href="https://lazycoderaayu.github.io/scrolling-animation-css/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/72f897d3-ae19-4dd0-989a-034558f11e7b" alt="Project Preview" width="100%">
+</a>
+
 - # Contributing
 
 If you'd like to contribute to this project, follow these steps:
